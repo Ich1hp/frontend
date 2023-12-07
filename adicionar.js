@@ -1,5 +1,4 @@
-const URL = "https://backend21a.onrender.com/pessoas/"
-
+const URL = "https://trabalho-cuhs.onrender.com/pessoas/"
 var idPessoa = null
 lerParametros()
 

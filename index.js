@@ -1,4 +1,4 @@
-const URL = "https://trabalho-cuhs.onrender.com/pessoa/"
+const URL = "https://trabalho-cuhs.onrender.com/pessoas/"
 var listaPessoas = []
 
 function iniciarTabela(){
